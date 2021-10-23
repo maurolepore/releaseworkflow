@@ -1,0 +1,5 @@
+^LICENSE\.md$
+^releaseworkflow\.Rproj$
+^\.Rproj\.user$
+^\.github$
+^README\.Rmd$
